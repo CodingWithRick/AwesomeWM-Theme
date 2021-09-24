@@ -46,7 +46,6 @@ sudo snap install visualboyadvance-m --edge
 
 ```bash
 git clone https://github.com/CodingWithRick/AwesomeWM-Theme.git ~/.config/awesome
-<<<<<<< HEAD
 ```
 
 ---
@@ -56,9 +55,8 @@ git clone https://github.com/CodingWithRick/AwesomeWM-Theme.git ~/.config/awesom
 - Download the install.sh file in the github repo
 
 ```bash
+chmod +x ./install.sh
 ./install.sh
-=======
->>>>>>> 489ad4cb0ab6aa98c58964545c5aa73cd3f32e54
 ```
 
 ### By Coding With Rick
