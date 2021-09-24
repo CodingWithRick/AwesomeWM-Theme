@@ -13,6 +13,13 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 
 # Arch Base Installation
 
+## Initial Setup
+
+```bash
+sudo pacman -S xorg xorg-drivers mesa lightdm lightdm-gtk-greeter base-devel vim nano sudo clang cmake git gcc glibc networkmanager
+
+```
+
 ## Yay Install
 
 ```bash
